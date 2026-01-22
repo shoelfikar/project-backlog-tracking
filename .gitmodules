@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
-	url = ./backend
-[submodule "frontend"]
-	path = frontend
-	url = ./frontend
+[submodule "project-backlog-tracking-backend"]
+	path = project-backlog-tracking-backend
+	url = git@github.com:shoelfikar/project-backlog-tracking-backend.git
+[submodule "project-backlog-tracking-frontend"]
+	path = project-backlog-tracking-frontend
+	url = git@github.com:shoelfikar/project-backlog-tracking-frontend.git
