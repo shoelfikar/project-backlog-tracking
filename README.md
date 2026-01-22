@@ -149,7 +149,7 @@ The easiest way to run the entire application:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone --recurse-submodules git@github.com:shoelfikar/project-backlog-tracking.git
 cd sprint-backlog
 
 # Start all services
